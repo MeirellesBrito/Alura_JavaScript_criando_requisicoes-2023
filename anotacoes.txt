@@ -10,8 +10,12 @@
     - Manipular o DOM para criar elementos a partir do JavaScript;
     - Inserir novos objetos em um arquivo JSON.
 
-03 - Montando uma peça
-
+03 - Criando novos elementos
+    - Salvar dados na API através do método POST;
+    - Estruturar requisições do tipo POST enviadas com o fetch API;
+    - Diferenciar method, headers e body;
+    - Captar evento de envio (submit) em formulários.
+    
 04 - Montando um robô
 
 05 - Calculando o poder 
