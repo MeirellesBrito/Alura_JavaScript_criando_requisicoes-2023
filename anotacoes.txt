@@ -1,0 +1,15 @@
+01 - Simulando uma API
+    - npm install -g json-server
+    - Diferenciar projetos estáticos de projetos dinâmicos;
+    - Fazer o download e instalar o Node.js;
+    - Instalar pacotes em projetos com o Node Package Manager (NPM);
+    - Iniciar um servidor com o Json-server.
+
+02 - Interagindo com uma pagina 
+
+03 - Montando uma peça
+
+04 - Montando um robô
+
+05 - Calculando o poder 
+   
