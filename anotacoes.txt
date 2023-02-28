@@ -5,7 +5,10 @@
     - Instalar pacotes em projetos com o Node Package Manager (NPM);
     - Iniciar um servidor com o Json-server.
 
-02 - Interagindo com uma pagina 
+02 - Exibindo elemantos
+    - Criar requisições GET para consumir uma API;
+    - Manipular o DOM para criar elementos a partir do JavaScript;
+    - Inserir novos objetos em um arquivo JSON.
 
 03 - Montando uma peça
 
