@@ -24,5 +24,10 @@
     - Remover elementos filhos de um container com removeChild.
     - 05 - Calculando o poder 
 
-05 - 
-   
+05 - Lidando com erros
+    - Lidar com erros com try catch;
+    - Criar novos erros com throw new Error;
+    - Detectar erros através de condicionais;
+    - Verificar se uma lista está vazia pelo seu tamanho;
+    - Imprimir mensagens de erro.
+    
