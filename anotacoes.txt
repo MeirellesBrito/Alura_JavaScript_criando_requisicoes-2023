@@ -16,7 +16,13 @@
     - Diferenciar method, headers e body;
     - Captar evento de envio (submit) em formulários.
     
-04 - Montando um robô
+04 - Buscando elemantos
+    - Como utilizar parâmetros para buscar objetos específicos na API;
+    - Recolher dados escritos em um campo de digitação;
+    - Detectar eventos de click com addEventListener;
+    - Verificar se há elementos filhos em um container com firstChild;
+    - Remover elementos filhos de um container com removeChild.
+    - 05 - Calculando o poder 
 
-05 - Calculando o poder 
+05 - 
    
